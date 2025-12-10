@@ -93,3 +93,5 @@ Data Analyst | Power BI | SQL | Excel
 🔗 GitHub: https://github.com/udayreddy943
 
 🔗 LinkedIn: https://www.linkedin.com/in/mekala-uday-kiran-reddy-2705602a6/
+
+🔗 gmail : udayreddyy835@gmail.com
