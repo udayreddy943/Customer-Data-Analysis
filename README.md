@@ -50,14 +50,6 @@ Total products sold across demographics
 ├── images/              # Screenshots of the dashboards
 ├── README.md            # Project documentation
 
-🖼 Dashboard Preview
-Overview Dashboard
-
-![Overview Dashboard](images/overview.png)
-
-Detailed Analysis Dashboard
-
-![Detailed Analysis](images/detailed_analysis.png)
 
 🎯 Business Questions Answered
 
